@@ -7,7 +7,7 @@
 
 - 🤝 We're looking for help with [setting up our steering committees](https://github.com/twunion)
 
-- 👨‍💻 All of our projects are available at [https://github.com/twunion/twunion/projects](https://github.com/twunion/twunion/projects)
+- 👨‍💻 All of our projects are available at [https://github.com/orgs/twunion/projects](https://github.com/orgs/twunion/projects)
 
 - 📝 We regularly write articles on [https://twunion.org.uk/twit](https://twunion.org.uk/twit)
 
